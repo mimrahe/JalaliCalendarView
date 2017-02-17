@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jalali Calendar View</string>
+    <string name="jalaliCalendarViewShanbeh">sh</string>
+    <string name="jalaliCalendarViewYekShanbeh">1sh</string>
+    <string name="jalaliCalendarViewDoShanbeh">2sh</string>
+    <string name="jalaliCalendarViewSehShanbeh">3sh</string>
+    <string name="jalaliCalendarViewChaharShanbeh">4sh</string>
+    <string name="jalaliCalendarViewPanjShanbeh">5sh</string>
+    <string name="jalaliCalendarViewJomeh">jom</string>
+</resources>

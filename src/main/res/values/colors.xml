@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorCalendarSelectedItemBorder">#cccccc</color>
+    <color name="colorCalendarSelectedItemSolid">#cccccc</color>
+    <color name="colorCalendarTodayBorder">#cccccc</color>
+    <color name="colorCalendarItemEnabledText">#414141</color>
+    <color name="colorCalendarItemDisabledText">#cccccc</color>
+    <color name="colorCalendarItemCheckedText">@android:color/white</color>
+    <color name="colorCalendarWeekNameText">#414141</color>
+</resources>

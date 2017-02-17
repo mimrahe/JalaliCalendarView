@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jalaliCalendarViewShanbeh">شنبه</string>
+    <string name="jalaliCalendarViewYekShanbeh">۱شنبه</string>
+    <string name="jalaliCalendarViewDoShanbeh">۲شنبه</string>
+    <string name="jalaliCalendarViewSehShanbeh">۳شنبه</string>
+    <string name="jalaliCalendarViewChaharShanbeh">۴شنبه</string>
+    <string name="jalaliCalendarViewPanjShanbeh">۵شنبه</string>
+    <string name="jalaliCalendarViewJomeh">جمعه</string>
+</resources>

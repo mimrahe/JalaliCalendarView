@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:horizontalSpacing="10dp"
+    android:choiceMode="singleChoice"
+    android:listSelector="@drawable/jalali_calendar_item_selected"
+    android:numColumns="7"
+    android:verticalSpacing="3dp" />

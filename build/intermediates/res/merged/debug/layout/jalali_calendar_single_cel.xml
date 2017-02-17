@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ir.mimrahe.lib.jalalicalendarview.CalendarCell xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/jalaliCalendarViewTextViewDay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/jalali_calendar_item_background"
+    android:gravity="center"
+    android:text=""
+    android:textSize="@dimen/dimenCalendarItemTextSize"
+    android:textColor="@color/jalali_calendar_item_normal_text_color"
+    android:textStyle="normal" />
